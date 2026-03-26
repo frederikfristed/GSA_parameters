@@ -1,4 +1,5 @@
 ﻿Parameter,Distribution_type,Lower_bound,Upper_bound,Mean,Standard_deviation
 
-NATGAS_P,unif,0.5,1.5,,
-
+FOSSIL_P,unif,0.5,1.5,,
+FUEL_IMPORT_P,unif,0.5,1.5,,
+FUEL_IMPORT_LIM,unif,0.001,1.5,,
